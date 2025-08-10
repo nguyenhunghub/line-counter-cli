@@ -21,7 +21,7 @@ A fast and efficient command-line tool to count lines of code in your projects. 
 
 ```bash
 # Clone the repository (optional if you already have the source)
-git clone https://github.com/nguyenhunghub/line-counter.git
+git clone https://github.com/nguyenhunghub/line-counter-cli.git
 cd line-counter
 
 # Build the binary
@@ -30,7 +30,6 @@ make b # or run: make go build -o lco.exe main.go
 # Install to your PATH (optional)
 sudo cp ./lco /usr/local/bin/
 ```
-
 
 ## Usage
 
